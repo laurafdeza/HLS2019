@@ -1,0 +1,284 @@
+---
+title: "Predictive Mechanisms of Idiomatic Expressions in Native and Non-native Speakers"
+subtitle: "ISB12, University of Alberta, Edmonton"
+author: "Fernández Arroyo, L., Sagarra, N., & Lozano-Argüelles, C."
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: ["hygge", "rutgers-fonts", "rutgers"]
+    nature:
+      beforeInit: "macros.js"
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+# 1. Introduction
+
+### .center[To be left high and dry   
+The grass is always greener on the other side]
+
+--
+
+Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemore et al., 2011)</font>   
+- Inefficient processing <font size="-1">(Kim & Nam, 2017)</font>
+- Use of different processing strategies <font size="-1">(Littlemore & Low, 2006)</font> 
+- Storage?
+
+???
+
+Pollio et al.'s (1987)
+English sources 3k novel metaphors + 7k idioms/week
+
+---
+
+# 1. Introduction
+
+## L1:  Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
+
+--
+
+## L2:  Literal Saliency Hypothesis <font size="-1">(Cieślicka, 2006)</font>
+
+--
+
+</br>
+</br>
+</br>
+
+.center[<font size="+2">Anticipation?</font>]
+
+
+???
+
+CBM
+
+Figurative language processed as literal language, but:
+1. very familiar idioms are stored as units. 
+2. the figurative interpretation of an idiom can be activated before the expression has reached its end.
+3. the compositional and non-compositional meanings of the string may interact. 
+
+LSH
+
+- Conventionality
+- Frequency
+- Prototypicality
+- Familiarity
+
+<font size="-1">(Huang, 2009)</font>
+
+SEMANTIC ANTICIPATION
+
+- Gender (Huettig & Janse, 2016)
+- Tense (Altmann & Kamide, 2007)
+- Stereotypical constraints (Kamide, Altmann & Haywood, 2003)
+- Nouns based on frequent context (DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)
+
+---
+
+# 2. My study
+
+### Can L1 and L2 speakers of Spanish (proficient speakers and interpreters) predict figurative language based on the first lexical item of the expression?
+
+--
+
+<br/>
+.center[
+Por _nada_ del __mundo__
+]
+
+---
+
+# 2. My study
+
+## Prediction and Hypothesis
+
+L1 speakers anticipate figurative expressions but not literal based on the first lexical element. </br>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If speakers can anticipate it, the collocation is stored as multi-word unit.      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If speakers cannot anticipate it, the collocation is not stored as a holistic unit.
+
+---
+
+# 3. Methods
+
+## Participants
+
+- 29 L1 Spanish
+- 28 L1 English, advanced L2 Spanish
+
+---
+
+# 3. Methods
+
+## Materials
+
+9 collocations + 9 literal versions       
+<font size="-1">Frequency: CREA</font>
+</br>
+</br>
+
+### Example
+
+
+| Figurative | Literal |
+|:---|:---|  
+|  |   |   </br>
+| por nada del mundo | por nada del plato |   
+
+
+---
+
+# 3. Methods
+
+## Procedure
+
+### Norming Phase 
+<font size="-1">(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)</font>
+
+--
+
+### Experimental Phase
+
+- DELE
+- Sociolinguistic background
+- Eye-tracking task
+- Phonetic short-term memory task
+- Collocation recognition tasks (2nd norming phase)
+
+---
+
+# 3. Methods
+
+### Eye-tracking sample trial
+
+<p align="center">
+<img src="./libs/images/et_trial.png">
+</p>
+Audio: _La niña no se come por nada del mundo la colifor._  </br>
+<font size="-0.5">(The little girl will not eat for anything in the world the cauliflower)</font>
+
+???
+
+200 ms shift
+
+<audio controls>
+  <source src="./libs/FO1_C1.wav" type="audio/wav">
+  <embed src="./libs/FO1_C1.wav" autostart="false" hidden="true" />
+</audio>
+
+---
+
+# 4. Results
+
+### T-tests
+### Growth curve analysis
+
+???
+
+10 ms bins t-test
+50 ms bins time course
+
+---
+
+# 4. Results
+
+### T-tests <font size="-0.5"> (Adjusted alpha level = 0.013) </font>
+
+Group anticipation comparison by figurativeness
+<img src="./libs/images/tc_condition.png" width="1800" height="350">
+
+---
+
+# 4. Results <font size="-1"> T-tests </font>
+
+Figurativeness anticipation comparison by group
+<img src="./libs/images/tc_group.png" width="1800" height="350">
+
+--
+
+Mon*Fig target onset p = 0.023      
+Fig vs lit p < .000 for both groups
+
+---
+
+# 4. Results
+
+### Growth Curve Analysis
+
+.pull-left[
+PREDICTORS
+- Group, condition
+- PSTM, WM, frequency of occurrence
+- Participant (RE)
+- Trial order (RE)
+]
+
+.pull-right[
+DEPENDENT VARIABLE
+- eLog count of fixations on target
+]
+
+--
+
+**Main effects:**
+
+
+**Interaction effects:**
+
+---
+
+# 4. Results
+
+### Growth Curve Analysis Plot
+
+---
+
+# 5. Discussion
+
+- No group was able to anticipate given the adjusted alpha level, although monolinguals showed a tendency.
+
+- Both groups fixated more on the correct target words in figurative trials than literal trials.
+
+- Lexical cues did not work as such, unless figurative language takes longer to be processed (Boulenger et al., 2012; Kutas & Federmeier, 2000, 2011).
+
+- OVER TIME?? (Waiting for GCA)
+
+- Constraint-Based Model (Libben & Titone, 2008): not enough evidence to support holistic storage.
+
+- Literal Saliency Hypothesis (Cieślicka, 2006): supported, but L1 against.
+
+---
+
+# 6. Future directions
+
+- Larger pool of expressions + other factors involved: Cross-linguistic effects, meaning transparency...
+
+- Turning point between L1 and L2 speakers? -> Heritage speakers
+
+---
+
+# 7. Conclusion
+
+- Lagging L2 figurative language performance may stem from storage.     
+
+- Other factors need consideration for a full picture.
+
+- Should we teach figurative expressions differently?
+
+
+---
+
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+.center[
+# Thank you
+]
+
+
