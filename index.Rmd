@@ -211,7 +211,7 @@ Condition anticipation comparison by group
 
 **T-tests <font size="-0.5"> (Adjusted alpha level = 0.013) </font>**
 
-Mon*Fig target onset p = 0.003      
+Mon*Fig target onset       
 Fig vs lit p < .000 for both groups
 
 ---
@@ -242,15 +242,15 @@ DEPENDENT VARIABLE
 ## Fixed effects:
 
 **Main effects:**
-- Condition (figurativeness) (Pr(>Chisq) = 0.001)
-- Frequency of occurrence (Pr(>Chisq) = 0.002)
+- Condition (figurativeness)
+- Frequency of occurrence
 
 **Interaction effects:**
 None
 
 ## Random effects:
 
-Interaction of condition and frequency on slope (Pr(>Chisq) = .000)
+Interaction of condition and frequency on slope
 ---
 
 # 4. Results
