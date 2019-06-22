@@ -15,7 +15,7 @@ class: center, middle, inverse, title-slide
 # Predictive Mechanisms of Idiomatic Expressions in Native and Non-native Speakers
 ## ISB12, University of Alberta, Edmonton
 ### Fernández Arroyo, L., Sagarra, N., &amp; Lozano-Argüelles, C.
-### 18 June, 2019
+### 22 June, 2019
 
 ---
 
@@ -113,6 +113,11 @@ L1 speakers anticipate figurative expressions but not literal based on the first
 - 29 L1 Spanish
 - 28 L1 English, advanced L2 Spanish
 
+???
+
+Screening test: DELE
+Homogeneized: WM &amp; PSTM
+
 ---
 
 # 3. Methods
@@ -124,14 +129,17 @@ L1 speakers anticipate figurative expressions but not literal based on the first
 &lt;/br&gt;
 &lt;/br&gt;
 
-### Example
+### Example           
+
+&lt;/br&gt;
+
 
 
 | Figurative | Literal |
 |:---|:---|  
 |  |   |   &lt;/br&gt;
-| por nada del mundo | por nada del plato |   
-
+| por nada del mundo  | por nada del plato |           
+| &lt;font size="-0.5"&gt;(For the world)&lt;/font&gt; | &lt;font size="-0.5"&gt;(For anything on the plate)&lt;/font&gt; |
 
 ---
 
@@ -149,7 +157,7 @@ L1 speakers anticipate figurative expressions but not literal based on the first
 - DELE
 - Sociolinguistic background
 - Eye-tracking task
-- Phonetic short-term memory task
+- Phonological short-term memory task
 - Collocation recognition tasks (2nd norming phase)
 
 ---
@@ -177,47 +185,52 @@ Audio: _La niña no se come por nada del mundo la colifor._  &lt;/br&gt;
 
 # 4. Results
 
-### T-tests
-### Growth curve analysis
+Group anticipation comparison by figurativeness
+&lt;img src="./libs/images/tc_condition.png" width="1800" height="350"&gt;
 
 ???
 
-10 ms bins t-test
-50 ms bins time course
+50 ms bins
 
 ---
 
 # 4. Results
 
-### T-tests &lt;font size="-0.5"&gt; (Adjusted alpha level = 0.013) &lt;/font&gt;
+Condition anticipation comparison by group
+&lt;img src="./libs/images/tc_group.png" width="1800" height="350"&gt;
 
-Group anticipation comparison by figurativeness
-&lt;img src="./libs/images/tc_condition.png" width="1800" height="350"&gt;
 
 ---
 
-# 4. Results &lt;font size="-1"&gt; T-tests &lt;/font&gt;
+# 4. Results
 
-Figurativeness anticipation comparison by group
+### T-tests
+### Generalized Linear Mixed Model
+
+---
+
+# 4. Results
+
+&lt;font size="-0.25"&gt; Condition anticipation comparison by group &lt;/font&gt;
 &lt;img src="./libs/images/tc_group.png" width="1800" height="350"&gt;
 
---
+**T-tests &lt;font size="-0.5"&gt; (Adjusted alpha level = 0.013) &lt;/font&gt;**
 
-Mon*Fig target onset p = 0.023      
+Mon*Fig target onset p = 0.003      
 Fig vs lit p &lt; .000 for both groups
 
 ---
 
 # 4. Results
 
-### Growth Curve Analysis
+**GLMM**
 
 .pull-left[
 PREDICTORS
 - Group, condition
-- PSTM, WM, frequency of occurrence
+- Frequency of occurrence
 - Participant (RE)
-- Trial order (RE)
+- Item (RE)
 ]
 
 .pull-right[
@@ -225,34 +238,55 @@ DEPENDENT VARIABLE
 - eLog count of fixations on target
 ]
 
---
-
-**Main effects:**
-
-
-**Interaction effects:**
-
 ---
 
 # 4. Results
 
-### Growth Curve Analysis Plot
+### GLMM
+
+## Fixed effects:
+
+**Main effects:**
+- Condition (figurativeness) (Pr(&gt;Chisq) = 0.001)
+- Frequency of occurrence (Pr(&gt;Chisq) = 0.002)
+
+**Interaction effects:**
+None
+
+## Random effects:
+
+Interaction of condition and frequency on slope (Pr(&gt;Chisq) = .000)
+---
+
+# 4. Results
+
+### GLMM Plot
+&lt;img src="./libs/images/glmm_ci.png" width="1775" height="425"&gt;
 
 ---
 
 # 5. Discussion
 
-- No group was able to anticipate given the adjusted alpha level, although monolinguals showed a tendency.
+- Only monolinguals were able to anticipate, albeit not at beginning of expression.
 
 - Both groups fixated more on the correct target words in figurative trials than literal trials.
 
 - Lexical cues did not work as such, unless figurative language takes longer to be processed (Boulenger et al., 2012; Kutas &amp; Federmeier, 2000, 2011).
 
-- OVER TIME?? (Waiting for GCA)
+- More frequent expressions were slightly easier to anticipate
 
-- Constraint-Based Model (Libben &amp; Titone, 2008): not enough evidence to support holistic storage.
+- Constraint-Based Model (Libben &amp; Titone, 2008) supported.
 
-- Literal Saliency Hypothesis (Cieślicka, 2006): supported, but L1 against.
+- Literal Saliency Hypothesis (Cieślicka, 2006) not supported.
+
+
+
+???
+
+LSH:
+L2 fixated more on figurative but not above chance, so they might not be so biased.
+and L1 against (also learn literal words first and then figurative expressions)
+L2 maybe connection between words but not stored as unit.
 
 ---
 
@@ -262,11 +296,13 @@ DEPENDENT VARIABLE
 
 - Turning point between L1 and L2 speakers? -&gt; Heritage speakers
 
+- Anticipation practice helps? -&gt; Interpreters
+
 ---
 
 # 7. Conclusion
 
-- Lagging L2 figurative language performance may stem from storage.     
+- Lagging L2 figurative language performance may stem from storage.       
 
 - Other factors need consideration for a full picture.
 
