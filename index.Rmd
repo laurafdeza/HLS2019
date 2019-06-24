@@ -80,7 +80,7 @@ SEMANTIC ANTICIPATION
 
 # My study
 
-### Can L1 and L2 speakers of Spanish (proficient speakers and interpreters) predict figurative language based on the first lexical item of the expression?
+### Can L1 and advanced L2 speakers of Spanish predict figurative language based on the first lexical item of the expression?
 
 --
 
@@ -176,7 +176,8 @@ Homogeneized: WM & PSTM
 - Sociolinguistic background
 - Eye-tracking task
 - Phonological short-term memory task
-- Collocation recognition tasks (2nd norming phase)
+- Working memory task
+- Collocation recognition task (2nd norming phase)
 
 ---
 
@@ -283,11 +284,11 @@ Interaction of condition and frequency on slope
 
 - Lexical cues did not work as such, unless figurative language takes longer to be processed (Boulenger et al., 2012; Kutas & Federmeier, 2000, 2011).
 
-- More frequent expressions were slightly easier to anticipate
+- More frequent expressions were slightly easier to anticipate.
 
-- Constraint-Based Model (Libben & Titone, 2008) supported (?)
+- Constraint-Based Model (Libben & Titone, 2008) supported. (?)
 
-- Literal Saliency Hypothesis (Cieślicka, 2006) not supported (?)
+- Literal Saliency Hypothesis (Cieślicka, 2006) not supported. (?)
 
 
 
