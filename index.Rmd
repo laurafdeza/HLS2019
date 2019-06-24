@@ -1,5 +1,5 @@
 ---
-title: "Predictive Mechanisms of Idiomatic Expressions in Native and Non-native Speakers"
+title: "Predictive Mechanisms of Idiomatic Expressions in Native and Non-native Speakers: An Exploratory Study"
 subtitle: "ISB12, University of Alberta, Edmonton"
 author: "Fernández Arroyo, L., Sagarra, N., & Lozano-Argüelles, C."
 date: "`r format(Sys.time(), '%d %B, %Y')`"
@@ -15,7 +15,7 @@ output:
       countIncrementalSlides: false
 ---
 
-# 1. Introduction
+# Introduction
 
 ### .center[To be left high and dry   
 The grass is always greener on the other side]
@@ -34,7 +34,7 @@ English sources 3k novel metaphors + 7k idioms/week
 
 ---
 
-# 1. Introduction
+# Introduction
 
 ## L1:  Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
 
@@ -78,7 +78,7 @@ SEMANTIC ANTICIPATION
 
 ---
 
-# 2. My study
+# My study
 
 ### Can L1 and L2 speakers of Spanish (proficient speakers and interpreters) predict figurative language based on the first lexical item of the expression?
 
@@ -86,27 +86,48 @@ SEMANTIC ANTICIPATION
 
 <br/>
 .center[
-Por _nada_ del __mundo__
+Por _nada_ del __mundo__      
+<font size="-1"> (For (anything in) the world) </font>
+
 ]
 
 ---
 
-# 2. My study
+# My study
 
-## Prediction and Hypothesis
+## Prediction and Hypotheses
 
-L1 speakers anticipate figurative expressions but not literal based on the first lexical element. </br>   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If speakers can anticipate it, the collocation is stored as multi-word unit.      
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- If speakers cannot anticipate it, the collocation is not stored as a holistic unit.
+### L1 speakers 
+
+Anticipate figurative expressions but not literal based on the first lexical element. 
+
+### L2 speakers 
+
+Cannot anticipate anything. </br>       
+
+--
+
+  - Anticipation = multi-word unit      
+  - No anticipation = individual words
+
+???
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 
 ---
 
-# 3. Methods
+# Methods
 
 ## Participants
 
 - 29 L1 Spanish
 - 28 L1 English, advanced L2 Spanish
+      
+      
+      
+Comparable in working memory and phonological short-term memory.
 
 ???
 
@@ -115,7 +136,7 @@ Homogeneized: WM & PSTM
 
 ---
 
-# 3. Methods
+# Methods
 
 ## Materials
 
@@ -138,11 +159,13 @@ Homogeneized: WM & PSTM
 
 ---
 
-# 3. Methods
+# Methods
 
 ## Procedure
 
 ### Norming Phase 
+- Expression knowledge
+- Familiarity     </br>
 <font size="-1">(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)</font>
 
 --
@@ -157,7 +180,7 @@ Homogeneized: WM & PSTM
 
 ---
 
-# 3. Methods
+# Methods
 
 ### Eye-tracking sample trial
 
@@ -178,7 +201,32 @@ Audio: _La niña no se come por nada del mundo la colifor._  </br>
 
 ---
 
-# 4. Results
+# Statistical Analysis
+
+### T-tests
+### Generalized Linear Mixed Model
+
+--
+
+.pull-left[
+FIXED EFFECTS
+- Group
+- Condition
+- Frequency of occurrence   
+
+RANDOM EFFECTS
+- Participant
+- Item
+]
+
+.pull-right[
+DEPENDENT VARIABLE
+- eLog count of fixations on target
+]
+
+---
+
+# Results
 
 Group anticipation comparison by figurativeness
 <img src="./libs/images/tc_condition.png" width="1800" height="350">
@@ -189,53 +237,20 @@ Group anticipation comparison by figurativeness
 
 ---
 
-# 4. Results
+# Results
 
 Condition anticipation comparison by group
 <img src="./libs/images/tc_group.png" width="1800" height="350">
 
+--
 
----
-
-# 4. Results
-
-### T-tests
-### Generalized Linear Mixed Model
-
----
-
-# 4. Results
-
-<font size="-0.25"> Condition anticipation comparison by group </font>
-<img src="./libs/images/tc_group.png" width="1800" height="350">
-
-**T-tests <font size="-0.5"> (Adjusted alpha level = 0.013) </font>**
-
+**T-tests with Bonferroni correction** </br>
 Mon*Fig target onset       
-Fig vs lit p < .000 for both groups
+Fig vs lit for both groups
 
 ---
 
-# 4. Results
-
-**GLMM**
-
-.pull-left[
-PREDICTORS
-- Group, condition
-- Frequency of occurrence
-- Participant (RE)
-- Item (RE)
-]
-
-.pull-right[
-DEPENDENT VARIABLE
-- eLog count of fixations on target
-]
-
----
-
-# 4. Results
+# Results
 
 ### GLMM
 
@@ -253,16 +268,16 @@ None
 Interaction of condition and frequency on slope
 ---
 
-# 4. Results
+# Results
 
 ### GLMM Plot
 <img src="./libs/images/glmm_ci.png" width="1775" height="425">
 
 ---
 
-# 5. Discussion
+# Discussion
 
-- Only monolinguals were able to anticipate, albeit not at beginning of expression.
+- Only monolinguals were able to anticipate (?), albeit not at beginning of expression.
 
 - Both groups fixated more on the correct target words in figurative trials than literal trials.
 
@@ -270,9 +285,9 @@ Interaction of condition and frequency on slope
 
 - More frequent expressions were slightly easier to anticipate
 
-- Constraint-Based Model (Libben & Titone, 2008) supported.
+- Constraint-Based Model (Libben & Titone, 2008) supported (?)
 
-- Literal Saliency Hypothesis (Cieślicka, 2006) not supported.
+- Literal Saliency Hypothesis (Cieślicka, 2006) not supported (?)
 
 
 
@@ -285,7 +300,7 @@ L2 maybe connection between words but not stored as unit.
 
 ---
 
-# 6. Future directions
+# Future directions
 
 - Larger pool of expressions + other factors involved: Cross-linguistic effects, meaning transparency...
 
@@ -295,7 +310,7 @@ L2 maybe connection between words but not stored as unit.
 
 ---
 
-# 7. Conclusion
+# Conclusion
 
 - Lagging L2 figurative language performance may stem from storage.       
 
