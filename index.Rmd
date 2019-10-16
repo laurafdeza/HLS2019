@@ -294,7 +294,7 @@ Interaction of condition and frequency on slope
 
 # Current direction
 
-- Larger pool of expressions + other factors involved: Cross-linguistic effects, meaning transparency...
+- Larger pool of expressions + other factors involved: Cross-linguistic effects
 
 - Turning point between L1 and L2 speakers? -> Heritage speakers
 
@@ -310,7 +310,9 @@ class: title-slide-section-grey
 </br>
 
 .center[
-# Thank .RUred[you]
+# Thank you   
+
+???.RUred[you]
 ]
 
 
