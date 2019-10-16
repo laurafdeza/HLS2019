@@ -1,6 +1,6 @@
 ---
-title: "Predictive Mechanisms of Idiomatic Expressions in Native and Non-native Speakers: An Exploratory Study"
-subtitle: "ISB12, University of Alberta, Edmonton"
+title: "L1 Speakers Anticipate Figurative Collocations, L2 Speakers Do Not: A Pilot Study"
+subtitle: "HLS 2019, University of Texas, El Paso"
 author: "Fernández Arroyo, L., Sagarra, N., & Lozano-Argüelles, C."
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 
@@ -25,51 +25,35 @@ The grass is always greener on the other side]
 Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemore et al., 2011)</font>   
 - Inefficient processing <font size="-1">(Kim & Nam, 2017)</font>
 - Use of different processing strategies <font size="-1">(Littlemore & Low, 2006)</font> 
-- Storage?
+--
+
+- Timeline processing + other alternatives?
 
 ???
 
 Pollio et al.'s (1987)
 English sources 3k novel metaphors + 7k idioms/week
 
+
+coll_pub
+
 ---
 
 # Introduction
 
-## L1:  Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
+### Constraint-Based Model (Libben & Titone, 2008)
 
---
+  End anticipation
 
-## L2:  Literal Saliency Hypothesis <font size="-1">(Cieślicka, 2006)</font>
+### Literal Saliency Hypothesis (Cieślicka, 2006)
 
---
+  Literal meaning preferred
 
-</br>
-</br>
-</br>
+---
 
-.center[<font size="+2">Anticipation?</font>]
+# Introduction
 
-
-???
-
-CBM
-
-Figurative language processed as literal language, but:
-1. very familiar idioms are stored as units. 
-2. the figurative interpretation of an idiom can be activated before the expression has reached its end.
-3. the compositional and non-compositional meanings of the string may interact. 
-
-LSH
-
-- Conventionality
-- Frequency
-- Prototypicality
-- Familiarity
-
-<font size="-1">(Huang, 2009)</font>
-
-SEMANTIC ANTICIPATION
+### Semantic Anticipation
 
 - Gender (Huettig & Janse, 2016)
 - Tense (Altmann & Kamide, 2007)
@@ -78,9 +62,32 @@ SEMANTIC ANTICIPATION
 
 ---
 
-# My study
+# Introduction
 
-### Can L1 and advanced L2 speakers of Spanish predict figurative language based on the first lexical item of the expression?
+### Interpreters
+
+- Require anticipation skills (Bajo, Padilla, & Padilla, 2000)
+- Increased reading comprehension over non-interpreters (Bajo, Padilla & Padilla, 2000)
+- Increased cortical thickness in brain areas related to language over non-interpreters(e.g., phonetic processing and higher-level formulation of propositional speech, Hervais-Adelman, Moser-Mercer, Murray, & Golestani, 2017).
+- Detect linguistic errors in written contexts better than monolinguals (Yudes, Macizo, Morales, & Bajo, 2013)
+
+
+???
+
+Figurative lang is complex, so more cognitive resources might be needed.
+Interpreters have proved to be better at processing languages (see slide), so their skills might serve them well in processing fig expressions too.
+
+---
+
+# The study
+
+### Can L1 and advanced L2 speakers of Spanish (interpreters and non-interpreters) predict collocations (with and without EN equivalents) based on the first lexical items of the expressions?
+
+???
+What expressions type of figurative collocations should we research deeper?
+
+What populations to study?
+
 
 --
 
@@ -93,27 +100,17 @@ Por _nada_ del __mundo__
 
 ---
 
-# My study
+# The study
 
-## Prediction and Hypotheses
+## Hypotheses
 
-### L1 speakers 
+### L1 speakers & Interpreters 
 
 Anticipate figurative expressions but not literal based on the first lexical element. 
 
 ### L2 speakers 
 
 Cannot anticipate anything. </br>       
-
---
-
-  - Anticipation = multi-word unit      
-  - No anticipation = individual words
-
-???
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 
 ---
@@ -122,17 +119,18 @@ Cannot anticipate anything. </br>
 
 ## Participants
 
-- 29 L1 Spanish
-- 28 L1 English, advanced L2 Spanish
+- 32 L1 Spanish
+- 26 L1 English, advanced L2 Spanish non-interpreters
+- 24 L1 English, L2 Spanish interpreters
       
       
       
-Comparable in working memory and phonological short-term memory.
+
 
 ???
 
 Screening test: DELE
-Homogeneized: WM & PSTM
+Homogeneized: WM -> Comparable in working memory and phonological short-term memory.
 
 ---
 
@@ -140,22 +138,23 @@ Homogeneized: WM & PSTM
 
 ## Materials
 
-9 collocations + 9 literal versions       
+8 collocations with English equivalent    
+8 collocations without English equivalent
+(+ literal versions)    
+
+
 <font size="-1">Frequency: CREA</font>
 </br>
 </br>
 
 ### Example           
 
-</br>
-
-
-
 | Figurative | Literal |
 |:---|:---|  
 |  |   |   </br>
 | por nada del mundo  | por nada del plato |           
 | <font size="-0.5">(For the world)</font> | <font size="-0.5">(For anything on the plate)</font> |
+
 
 ---
 
@@ -174,10 +173,14 @@ Homogeneized: WM & PSTM
 
 - DELE
 - Sociolinguistic background
-- Eye-tracking task
-- Phonological short-term memory task
-- Working memory task
+- Eye-tracking visual world paradigm
+- Verbal working memory task
 - Collocation recognition task (2nd norming phase)
+
+???
+
+Min 40/56 DELE
+Wechsler Adult Intelligence Scale Test (Wechsler, 1997)
 
 ---
 
@@ -222,15 +225,25 @@ RANDOM EFFECTS
 
 .pull-right[
 DEPENDENT VARIABLE
-- eLog count of fixations on target
+- Count and proportion of fixations on target
 ]
 
 ---
 
 # Results
 
-Group anticipation comparison by figurativeness
-<img src="./libs/images/tc_condition.png" width="1800" height="350">
+## Expressions
+
+8 figurative collocations with English equivalent   
+1 fgurative collocations without English equivalent
+
+---
+
+# Results
+
+## Anticipation <font size="-1">By figurativeness</font>
+
+<img src="./libs/images/tc_condition.jpeg" width="1800" height="350">
 
 ???
 
@@ -240,14 +253,9 @@ Group anticipation comparison by figurativeness
 
 # Results
 
-Condition anticipation comparison by group
-<img src="./libs/images/tc_group.png" width="1800" height="350">
+## Anticipation <font size="-1">By group</font>
 
---
-
-**T-tests with Bonferroni correction** </br>
-Mon*Fig target onset       
-Fig vs lit for both groups
+<img src="./libs/images/tc_group.jpeg" width="1800" height="350">
 
 ---
 
@@ -257,12 +265,7 @@ Fig vs lit for both groups
 
 ## Fixed effects:
 
-**Main effects:**
-- Condition (figurativeness)
-- Frequency of occurrence
-
-**Interaction effects:**
-None
+Main effect: Condition (figurative vs. literal)
 
 ## Random effects:
 
@@ -272,55 +275,32 @@ Interaction of condition and frequency on slope
 # Results
 
 ### GLMM Plot
-<img src="./libs/images/glmm_ci.png" width="1775" height="425">
+<img src="./libs/images/glmm_ci.jpeg" width="1775" height="425">
 
 ---
 
 # Discussion
 
-- Only monolinguals were able to anticipate (?), albeit not at beginning of expression.
+- Are expressions with equivalents easier to learn or are L2 speakers transfering semantic knowledge?
 
-- Both groups fixated more on the correct target words in figurative trials than literal trials.
+- Only monolinguals might anticipate.
 
-- Lexical cues did not work as such, unless figurative language takes longer to be processed (Boulenger et al., 2012; Kutas & Federmeier, 2000, 2011).
+- The three groups fixated more on the correct target words in figurative trials than literal trials.
 
-- More frequent expressions were slightly easier to anticipate.
+- There was no difference hinted at in performance between interpreters and non-interpreters L2ers.
 
-- Constraint-Based Model (Libben & Titone, 2008) supported. (?)
-
-- Literal Saliency Hypothesis (Cieślicka, 2006) not supported. (?)
-
-
-
-???
-
-LSH:
-L2 fixated more on figurative but not above chance, so they might not be so biased.
-and L1 against (also learn literal words first and then figurative expressions)
-L2 maybe connection between words but not stored as unit.
 
 ---
 
-# Future directions
+# Current direction
 
 - Larger pool of expressions + other factors involved: Cross-linguistic effects, meaning transparency...
 
 - Turning point between L1 and L2 speakers? -> Heritage speakers
 
-- Anticipation practice helps? -> Interpreters
 
 ---
-
-# Conclusion
-
-- Lagging L2 figurative language performance may stem from storage.       
-
-- Other factors need consideration for a full picture.
-
-- Should we teach figurative expressions differently?
-
-
----
+class: title-slide-section-grey
 
 </br>
 </br>
@@ -330,7 +310,7 @@ L2 maybe connection between words but not stored as unit.
 </br>
 
 .center[
-# Thank you
+# Thank .RUred[you]
 ]
 
 
