@@ -16,18 +16,14 @@ output:
 ---
 
 # Introduction
+  
+<br />
 
-### .center[To be left high and dry   
-The grass is always greener on the other side]
-
---
-
-Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemore et al., 2011)</font>   
-- Inefficient processing <font size="-1">(Kim & Nam, 2017)</font>
-- Use of different processing strategies <font size="-1">(Littlemore & Low, 2006)</font> 
---
-
-- Timeline processing + other alternatives?
+<br />
+  
+### .center[To be left high and dry]   
+  
+### .center[The grass is always greener on the other side]
 
 ???
 
@@ -41,35 +37,69 @@ coll_pub
 
 # Introduction
 
-### Constraint-Based Model (Libben & Titone, 2008)
+<br />
 
-  End anticipation
+Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemore et al., 2011)</font>   
+  
+- Inefficient processing <font size="-1">(Kim & Nam, 2017)</font>   
+  
+- Use of different processing strategies <font size="-1">(Littlemore & Low, 2006)</font> 
+  
+--
 
-### Literal Saliency Hypothesis (Cieślicka, 2006)
+- Timeline processing   
 
-  Literal meaning preferred
+--
+
+<br/>
+<br/>
+<br/>
+
+### How do we process information?
+
+---
+
+# Introduction
+
+### Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
+
+- L1
+- End anticipation
+
+<br/>
+
+### Literal Saliency Hypothesis <font size="-1">(Cieślicka, 2006)</font>
+
+- L2
+- Literal meaning prevalent
 
 ---
 
 # Introduction
 
 ### Semantic Anticipation
-
-- Gender (Huettig & Janse, 2016)
-- Tense (Altmann & Kamide, 2007)
-- Stereotypical constraints (Kamide, Altmann & Haywood, 2003)
-- Nouns based on frequent context (DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)
+  
+- Gender <font size="-1">(Huettig & Janse, 2016)</font>   
+    
+- Tense <font size="-1">(Altmann & Kamide, 2007)</font>   
+    
+- Stereotypical constraints <font size="-1">(Kamide, Altmann & Haywood, 2003)</font>   
+    
+- Nouns based on frequent context <font size="-1">(DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)</font>
 
 ---
 
 # Introduction
 
 ### Interpreters
+  
+- Require anticipation skills <font size="-1">(Bajo, Padilla, & Padilla, 2000)</font>   
 
-- Require anticipation skills (Bajo, Padilla, & Padilla, 2000)
-- Increased reading comprehension over non-interpreters (Bajo, Padilla & Padilla, 2000)
-- Increased cortical thickness in brain areas related to language over non-interpreters(e.g., phonetic processing and higher-level formulation of propositional speech, Hervais-Adelman, Moser-Mercer, Murray, & Golestani, 2017).
-- Detect linguistic errors in written contexts better than monolinguals (Yudes, Macizo, Morales, & Bajo, 2013)
+- Increased reading comprehension over non-interpreters <font size="-1">(Bajo, Padilla & Padilla, 2000)</font>  
+
+- Increased cortical thickness in brain areas related to language over non-interpreters (e.g., phonetic processing and higher-level formulation of propositional speech, <font size="-1">Hervais-Adelman, Moser-Mercer, Murray, & Golestani, 2017</font>).  
+
+- Detect linguistic errors in written contexts better than monolinguals <font size="-1">(Yudes, Macizo, Morales, & Bajo, 2013)</font>
 
 
 ???
@@ -106,25 +136,23 @@ Por _nada_ del __mundo__
 
 ### L1 speakers & Interpreters 
 
-Anticipate figurative expressions but not literal based on the first lexical element. 
+<p style="margin-left: 40px"> Anticipate figurative expressions but not literal based on the first lexical element. </p>
 
 ### L2 speakers 
 
-Cannot anticipate anything. </br>       
-
+<p style="margin-left: 40px"> Cannot anticipate anything. </p>
 
 ---
 
 # Methods
 
 ## Participants
+  
+- 32 L1 Spanish   
 
-- 32 L1 Spanish
-- 26 L1 English, advanced L2 Spanish non-interpreters
+- 26 L1 English, advanced L2 Spanish non-interpreters   
+
 - 24 L1 English, L2 Spanish interpreters
-      
-      
-      
 
 
 ???
@@ -145,7 +173,6 @@ Homogeneized: WM -> Comparable in working memory and phonological short-term mem
 
 <font size="-1">Frequency: CREA</font>
 </br>
-</br>
 
 ### Example           
 
@@ -160,27 +187,27 @@ Homogeneized: WM -> Comparable in working memory and phonological short-term mem
 
 # Methods
 
-## Procedure
+## Procedure  
 
-### Norming Phase 
+.pull-left[### Norming Phase 
 - Expression knowledge
 - Familiarity     </br>
-<font size="-1">(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)</font>
+<font size="-1">(Molinaro & Carreiras, 2010; Cacciari & Corradini, 2015)</font>]
 
 --
 
-### Experimental Phase
+.pull-right[### Experimental Phase
 
-- DELE
+- DELE proficiency test
 - Sociolinguistic background
 - Eye-tracking visual world paradigm
-- Verbal working memory task
-- Collocation recognition task (2nd norming phase)
+- Letter-number sequencing working memory test <font size="-1">(WAIS, Wechsler, 1997)</font>  
+- Collocation recognition task (2nd norming phase)]
 
 ???
 
 Min 40/56 DELE
-Wechsler Adult Intelligence Scale Test (Wechsler, 1997)
+Wechsler Adult Intelligence Scale Test
 
 ---
 
@@ -188,11 +215,34 @@ Wechsler Adult Intelligence Scale Test (Wechsler, 1997)
 
 ### Eye-tracking sample trial
 
-<p align="center">
-<img src="./libs/images/et_trial.png">
-</p>
-Audio: _La niña no se come por nada del mundo la colifor._  </br>
+.center[
+![](./libs/images/eyetracker.gif)
+
+]
+
+.left-column[
+
+.right[
+
+</br>
+<audio controls style="width: 120px;">
+  <source src="./libs/F01_C1.ogg" type="audio/ogg">
+  <source src="./libs/F01_C1.wav" type="audio/mpeg">
+</audio>]
+
+]
+
+
+.right-column[ 
+
+.left[
+
+_La niña no se come por nada del mundo la colifor._]
+
 <font size="-0.5">(The little girl will not eat for anything in the world the cauliflower)</font>
+
+]
+
 
 ???
 
@@ -202,31 +252,6 @@ Audio: _La niña no se come por nada del mundo la colifor._  </br>
   <source src="./libs/FO1_C1.wav" type="audio/wav">
   <embed src="./libs/FO1_C1.wav" autostart="false" hidden="true" />
 </audio>
-
----
-
-# Statistical Analysis
-
-### T-tests
-### Generalized Linear Mixed Model
-
---
-
-.pull-left[
-FIXED EFFECTS
-- Group
-- Condition
-- Frequency of occurrence   
-
-RANDOM EFFECTS
-- Participant
-- Item
-]
-
-.pull-right[
-DEPENDENT VARIABLE
-- Count and proportion of fixations on target
-]
 
 ---
 
@@ -241,21 +266,26 @@ DEPENDENT VARIABLE
 
 # Results
 
-## Anticipation <font size="-1">By figurativeness</font>
+### Timecourse for gaze fixation pattern according to condition
 
 <img src="./libs/images/tc_condition.jpeg" width="1800" height="350">
 
+La niña no se come por nada del .RUred[m]undo la coliflor.
+
+
 ???
 
-50 ms bins
+t-test marginally significant for monolinguals
 
 ---
 
 # Results
 
-## Anticipation <font size="-1">By group</font>
+### Timecourse for gaze fixation pattern according to group
 
 <img src="./libs/images/tc_group.jpeg" width="1800" height="350">
+
+La niña no se come por nada del .RUred[m]undo la coliflor.
 
 ---
 
@@ -270,11 +300,16 @@ Main effect: Condition (figurative vs. literal)
 ## Random effects:
 
 Interaction of condition and frequency on slope
+
+???
+
+Random effects variety within participant
+
 ---
 
 # Results
 
-### GLMM Plot
+### GLMM Confience Interval Plot
 <img src="./libs/images/glmm_ci.jpeg" width="1775" height="425">
 
 ---
@@ -283,21 +318,36 @@ Interaction of condition and frequency on slope
 
 - Are expressions with equivalents easier to learn or are L2 speakers transfering semantic knowledge?
 
-- Only monolinguals might anticipate.
-
-- The three groups fixated more on the correct target words in figurative trials than literal trials.
-
 - There was no difference hinted at in performance between interpreters and non-interpreters L2ers.
 
+- Only monolinguals might anticipate (Constraint-Based Model)
+
+- The three groups fixated more on the correct target words in figurative trials than literal trials. (vs Literal Saliency Hypothesis)
 
 ---
 
 # Current direction
 
-- Larger pool of expressions + other factors involved: Cross-linguistic effects
+- Larger pool of expressions + other factors involved: Cross-linguistic effects   
 
-- Turning point between L1 and L2 speakers? -> Heritage speakers
+- Turning point between monolingual and late L2 speakers? -> Heritage speakers    
 
+---
+
+# Conclusion
+
+<br/>
+
+We process infomation differently in L1 and other languages.    
+
+<br/>
+<p style="margin-left: 80px"> Either </p>
+
+- Chunk (beginners) > More analytic (L2 proficient)
+
+<p style="margin-left: 80px"> Or </p>
+
+- More alternatives considered. </p>
 
 ---
 class: title-slide-section-grey
@@ -311,8 +361,6 @@ class: title-slide-section-grey
 
 .center[
 # Thank you   
-
-???.RUred[you]
 ]
 
 
