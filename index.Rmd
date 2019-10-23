@@ -111,7 +111,7 @@ Interpreters have proved to be better at processing languages (see slide), so th
 
 # The study
 
-### Can L1 and advanced L2 speakers of Spanish (interpreters and non-interpreters) predict collocations (with and without EN equivalents) based on the first lexical items of the expressions?
+### Can L1 and advanced L2 speakers of Spanish (interpreters and non-interpreters) predict collocations based on the first lexical items of the expressions?
 
 ???
 What expressions type of figurative collocations should we research deeper?
