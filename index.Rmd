@@ -64,6 +64,7 @@ Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemor
 ### Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
 
 - L1
+- Multi-word units in lexicon
 - End anticipation
 
 <br/>
@@ -321,6 +322,8 @@ Random effects variety within participant
 - There was no difference hinted at in performance between interpreters and non-interpreters L2ers.
 
 - Only monolinguals might anticipate (Constraint-Based Model)
+
+- Figurative meaning activated over literal meaning.
 
 - The three groups fixated more on the correct target words in figurative trials than literal trials. (vs Literal Saliency Hypothesis)
 
