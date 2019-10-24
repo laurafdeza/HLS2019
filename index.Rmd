@@ -321,6 +321,8 @@ Random effects variety within participant
 
 - There was no difference hinted at in performance between interpreters and non-interpreters L2ers.
 
+- Anticipation not based on first lexical item.
+
 - Only monolinguals might anticipate (Constraint-Based Model)
 
 - Figurative meaning activated over literal meaning.
