@@ -61,6 +61,20 @@ Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemor
 
 # Introduction
 
+### Semantic Anticipation
+  
+- Gender <font size="-1">(Huettig & Janse, 2016)</font>   
+    
+- Tense <font size="-1">(Altmann & Kamide, 2007)</font>   
+    
+- Stereotypical constraints <font size="-1">(Kamide, Altmann & Haywood, 2003)</font>   
+    
+- Nouns based on frequent context <font size="-1">(DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)</font>
+
+---
+
+# Introduction
+
 ### Constraint-Based Model <font size="-1">(Libben & Titone, 2008)</font>
 
 - L1
@@ -73,20 +87,6 @@ Even proficient L2 speakers have problems <font size="-1">(Hill, 1999; Littlemor
 
 - L2
 - Literal meaning prevalent
-
----
-
-# Introduction
-
-### Semantic Anticipation
-  
-- Gender <font size="-1">(Huettig & Janse, 2016)</font>   
-    
-- Tense <font size="-1">(Altmann & Kamide, 2007)</font>   
-    
-- Stereotypical constraints <font size="-1">(Kamide, Altmann & Haywood, 2003)</font>   
-    
-- Nouns based on frequent context <font size="-1">(DeLong, Urbach and Kutas, 2005; Nieuwland et al., 2017)</font>
 
 ---
 
@@ -112,7 +112,7 @@ Interpreters have proved to be better at processing languages (see slide), so th
 
 # The study
 
-### Can L1 and advanced L2 speakers of Spanish (interpreters and non-interpreters) predict collocations based on the first lexical items of the expressions?
+### Can L1 and advanced L2 speakers of Spanish (interpreters and non-interpreters) predict collocations (with and without English equivalents) based on the first lexical items of the expressions?
 
 ???
 What expressions type of figurative collocations should we research deeper?
@@ -135,11 +135,11 @@ Por _nada_ del __mundo__
 
 ## Hypotheses
 
-### L1 speakers & Interpreters 
+### L1 speakers & Interpreter bilinguals 
 
 <p style="margin-left: 40px"> Anticipate figurative expressions but not literal based on the first lexical element. </p>
 
-### L2 speakers 
+### Non-interpreter bilinguals 
 
 <p style="margin-left: 40px"> Cannot anticipate anything. </p>
 
@@ -207,6 +207,7 @@ Homogeneized: WM -> Comparable in working memory and phonological short-term mem
 
 ???
 
+Dialectal variety accounted for
 Min 40/56 DELE
 Wechsler Adult Intelligence Scale Test
 
@@ -261,7 +262,7 @@ _La niña no se come por nada del mundo la colifor._]
 ## Expressions
 
 8 figurative collocations with English equivalent   
-1 fgurative collocations without English equivalent
+1 figurative collocations without English equivalent
 
 ---
 
@@ -277,6 +278,8 @@ La niña no se come por nada del .RUred[m]undo la coliflor.
 ???
 
 t-test marginally significant for monolinguals
+
+Nuria: when taking about t-tests and GLMMs, explain first WHAT you measured with the t-tests and WHAT you measured w the GLMMs.
 
 ---
 
@@ -327,6 +330,10 @@ Random effects variety within participant
 
 - Figurative meaning activated over literal meaning.
 
+<p style="margin-left: 80px"> Chunk (beginners) > More analytic (L2 proficient) </p>
+
+<p style="margin-left: 80px"> More alternatives considered </p>
+
 - The three groups fixated more on the correct target words in figurative trials than literal trials. (vs Literal Saliency Hypothesis)
 
 ---
@@ -343,16 +350,17 @@ Random effects variety within participant
 
 <br/>
 
-We process infomation differently in L1 and other languages.    
+Figurative language is processed differently in L1 and L2.  
+
+<p style="margin-left: 80px"> We process infomation differently in L1 and other languages.    </p>
 
 <br/>
-<p style="margin-left: 80px"> Either </p>
 
-- Chunk (beginners) > More analytic (L2 proficient)
+--
 
-<p style="margin-left: 80px"> Or </p>
+Real world:   
 
-- More alternatives considered. </p>
+Teaching applications.
 
 ---
 class: title-slide-section-grey
